@@ -198,3 +198,20 @@
 .left a:nth-child(1):hover {
     color: rgb(184, 129, 28);
 }
+
+.background {
+    position: fixed;
+    top: 85px;
+    z-index: -1;
+    right: 0;
+}
+
+
+.aside_menu {
+    position: sticky;
+    top: 0;
+}
+
+.aside_menu ul {
+    position: absolute;
+}
