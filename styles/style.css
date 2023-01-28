@@ -79,6 +79,7 @@
     max-width: 1300px;
     width: 100%;
     margin-right: 120px;
+    padding-top: 80px;
 
 }
 
@@ -190,10 +191,10 @@
     color: rgb(184, 129, 28);
 }
 
-.sticky_menu {
+/* .sticky_menu {
     position: sticky;
     top: 0;
-}
+} */
 
 .left a:nth-child(1):hover {
     color: rgb(184, 129, 28);
@@ -208,6 +209,7 @@
 
 
 .aside_menu {
+    padding-top: 80px;
     position: sticky;
     top: 0;
 }
